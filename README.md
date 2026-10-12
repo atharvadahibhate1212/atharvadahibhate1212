@@ -21,32 +21,32 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
-const atharva = {
-  title: "Aspiring Software Engineering",
-  stack: [".NET", "React", "Redux", "Azure", "Git", "GitHub", "Vercel"],
-  launchedProjects: [
-    "BMW Elite — Luxury Car Showroom Website",
-    "Personal Portfolio Website",
-    "Library Management System — Web Application",
-  ],
-  certifications: [
-    "Career Essentials in Generative AI by Microsoft and LinkedIn",
-    "Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn",
-    "Ethics in the Age of Generative AI",
-    "What Is Generative AI?",
-    "Everyday AI Concepts",
-    "Your Top AI Questions Answered: AI Literacy for Everyone",
-    "AI Tools & ChatGPT Workshop (be10x)",
-    "Software Engineering Job Simulation (Commonwealth Bank, Forage)",
-    "Cybersecurity Analyst Job Simulation (Tata, Forage)",
-    "Advisors & Consulting Services Job Simulation (Mastercard, Forage)",
-    "Client Service Delivery Job Simulation (Third Bridge, Forage)",
-  ],
-  status: "Actively job searching",
-  openTo: ["Software Engineering roles", "Internships", "Entry-level opportunities"],
-};
-```
+| | |
+|:--|:--|
+| 🎯 **Title** | Aspiring Software Engineering |
+| 🛠️ **Stack** | `.NET` · `React` · `Redux` · `Azure` · `Git` · `GitHub` · `Vercel` |
+| 🚀 **Launched Projects** | BMW Elite — Luxury Car Showroom Website<br>Personal Portfolio Website<br>Library Management System — Web Application |
+| 🟢 **Status** | Actively job searching |
+| 💼 **Open To** | Software Engineering roles · Internships · Entry-level opportunities |
+
+<details>
+<summary><b>🏅 Certifications (11) — click to expand</b></summary>
+
+<br/>
+
+- Career Essentials in Generative AI by Microsoft and LinkedIn
+- Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn
+- Ethics in the Age of Generative AI
+- What Is Generative AI?
+- Everyday AI Concepts
+- Your Top AI Questions Answered: AI Literacy for Everyone
+- AI Tools & ChatGPT Workshop (be10x)
+- Software Engineering Job Simulation (Commonwealth Bank, Forage)
+- Cybersecurity Analyst Job Simulation (Tata, Forage)
+- Advisors & Consulting Services Job Simulation (Mastercard, Forage)
+- Client Service Delivery Job Simulation (Third Bridge, Forage)
+
+</details>
 
 ---
 
