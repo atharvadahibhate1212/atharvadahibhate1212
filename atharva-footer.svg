@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="footerTitle">
+  <title id="footerTitle">Burgundy technical footer ornament</title>
+  <defs>
+    <linearGradient id="atharvaFooterLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#451126" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#451126" stop-opacity=".2"/>
+      <animate attributeName="x1" values="0;1;0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" rx="12" fill="#10070C"/>
+  <path d="M40 45H520 M680 45H1160" stroke="url(#atharvaFooterLine)" stroke-width="1.5"/>
+  <g fill="none" stroke="#C77B9B" stroke-opacity=".8">
+    <circle cx="600" cy="45" r="19"/>
+    <circle cx="600" cy="45" r="11" stroke-dasharray="3 4">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 45" to="360 600 45" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M594 45l4 4 9-10" fill="none" stroke="#E5B5C7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
