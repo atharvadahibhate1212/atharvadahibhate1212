@@ -69,6 +69,20 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+### 🤖 AI Resume Tracker — AI-Powered Resume Analyzer
+
+An AI-powered resume tracking and analysis application designed to evaluate resumes, generate insights, and help users improve their job application readiness.
+
+- 📄 Resume upload and document processing
+- 🧠 AI-powered resume analysis and feedback
+- ⚙️ Backend API integration for analysis workflows
+- 📊 Structured reports to support resume improvement
+- 🌐 Full-stack deployment and API integration
+
+**[🔗 View Repository](https://github.com/atharvadahibhate1212?tab=repositories)**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚘 BMW Elite — Showroom Platform
 
