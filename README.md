@@ -69,6 +69,20 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+### 👨‍💻 Personal Portfolio — Developer Showcase
+
+A modern personal portfolio website showcasing my technical skills, projects, academic achievements, and journey as an aspiring software engineer.
+
+- 🎨 Premium UI with a modern, responsive design
+- ⚡ Interactive animations and smooth transitions
+- 🛠️ Dedicated sections for skills, projects, and achievements
+- 🔗 Integrated GitHub, LinkedIn, and contact links
+- 📄 Resume access and professional profile showcase
+
+[**🔗 View Website**](https://atharva-dahibhate-portfolio.vercel.app/)
+
+[**💻 View Repository**](https://github.com/atharvadahibhate1212)</td>
+<td width="50%" valign="top">
 
 ### 🚘 BMW Elite — Showroom Platform
 
@@ -78,6 +92,8 @@ A BMW showroom web application focused on presenting vehicles, models, and prici
 - ⚙️ React and Vite frontend
 - 🔌 Express backend and MongoDB integration
 - 🌐 Learning full-stack deployment
+- [**🔗 View Website**](https://bmw-elite-atharva-client-pi.vercel.app)
+
 
 **[🔗 View Repository](https://github.com/atharvadahibhate1212/bmw-elite-atharva)**
 
@@ -92,6 +108,8 @@ An AI-focused application designed to help users analyze resumes and understand 
 - 🧠 Exploring AI integration
 - 🔗 Frontend and backend communication
 - 🚀 Practicing API configuration and deployment
+- - [**🔗 View Website**](https://resumepilot-ai-resume-analyzer-4u3j.vercel.app)
+
 
 **[🔎 Explore My GitHub Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
 
@@ -100,7 +118,7 @@ An AI-focused application designed to help users analyze resumes and understand 
 <tr>
 <td width="50%" valign="top">
 
-### 🏍️ Yamaha Motorcycle Website
+### autoverse-3d-showroom Website
 
 A motorcycle website project focused on visual presentation and interactive user experience.
 
@@ -108,6 +126,8 @@ A motorcycle website project focused on visual presentation and interactive user
 - ✨ Modern design and animations
 - 📱 Responsive web development
 - 🎨 Exploring immersive web experiences
+- - [**🔗 View Website**](https://autoverse-3d-showroom.vercel.app)
+
 
 **[🔎 Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
 
@@ -122,6 +142,7 @@ A university library management interface designed to organize library activitie
 - 📖 Book and issue management concepts
 - 📊 Dashboard and data visualization
 - 🎨 UI/UX design and prototyping
+- - - [**🔗 View Website**](https://library-management-system1-theta.vercel.app)
 
 **[🔎 Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
 
