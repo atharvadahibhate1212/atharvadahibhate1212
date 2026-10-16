@@ -98,20 +98,19 @@ A BMW showroom web application focused on presenting vehicles, models, and prici
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ResumePilot AI — Resume Analyzer
+### 👨‍💻 Personal Portfolio — Developer Showcase
 
-An AI-focused application designed to help users analyze resumes and understand how well they align with job requirements.
+A modern personal portfolio website showcasing my technical skills, projects, academic achievements, and journey as an aspiring software engineer.
 
-- 📄 Resume analysis workflow
-- 🧠 Exploring AI integration
-- 🔗 Frontend and backend communication
-- 🚀 Practicing API configuration and deployment
+- 🎨 Premium UI with a modern, responsive design
+- ⚡ Interactive animations and smooth transitions
+- 🛠️ Dedicated sections for skills, projects, and achievements
+- 🔗 Integrated GitHub, LinkedIn, and contact links
+- 📄 Resume access and professional profile showcase
 
-**[🔎 Explore My GitHub Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
+[**🔗 View Website**](https://atharvadahibhate1212.github.io/atharva-dahibhate-portfolio/)
 
-</td>
-</tr>
-<tr>
+[**💻 View Repository**](https://github.com/atharvadahibhate1212)</td>
 <td width="50%" valign="top">
 
 ### 🏍️ Yamaha Motorcycle Website
