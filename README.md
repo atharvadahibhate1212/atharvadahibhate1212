@@ -78,7 +78,7 @@ An AI-powered resume tracking and analysis application designed to evaluate resu
 - ⚙️ Backend API integration for analysis workflows
 - 📊 Structured reports to support resume improvement
 - 🌐 Full-stack deployment and API integration
-
+[**🔗 View Website**](resumepilot-ai-resume-analyzer-4u3j.vercel.app)
 **[🔗 View Repository](https://github.com/atharvadahibhate1212?tab=repositories)**
 
 </td>
@@ -92,7 +92,7 @@ A BMW showroom web application focused on presenting vehicles, models, and prici
 - ⚙️ React and Vite frontend
 - 🔌 Express backend and MongoDB integration
 - 🌐 Learning full-stack deployment
-
+[**🔗 View Website**](bmw-elite-atharva-client-pi.vercel.app)
 **[🔗 View Repository](https://github.com/atharvadahibhate1212/bmw-elite-atharva)**
 
 </td>
@@ -108,12 +108,11 @@ A modern personal portfolio website showcasing my technical skills, projects, ac
 - 🔗 Integrated GitHub, LinkedIn, and contact links
 - 📄 Resume access and professional profile showcase
 
-[**🔗 View Website**](https://atharvadahibhate1212.github.io/atharva-dahibhate-portfolio/)
-
+[**🔗 View Website**](atharva-dahibhate-portfolio.vercel.app)
 [**💻 View Repository**](https://github.com/atharvadahibhate1212)</td>
 <td width="50%" valign="top">
 
-### 🏍️ Yamaha Motorcycle Website
+### 🏍️ AUTOVERSE 3D Website
 
 A motorcycle website project focused on visual presentation and interactive user experience.
 
@@ -121,7 +120,7 @@ A motorcycle website project focused on visual presentation and interactive user
 - ✨ Modern design and animations
 - 📱 Responsive web development
 - 🎨 Exploring immersive web experiences
-
+[**🔗 View Website**](autoverse-3d-showroom.vercel.app)
 **[🔎 Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
 
 </td>
@@ -135,7 +134,7 @@ A university library management interface designed to organize library activitie
 - 📖 Book and issue management concepts
 - 📊 Dashboard and data visualization
 - 🎨 UI/UX design and prototyping
-
+[**🔗 View Website**](library-management-system1-theta.vercel.app)
 **[🔎 Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
 
 </td>
