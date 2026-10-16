@@ -1,150 +1,164 @@
-<div align="center">
+# 👋 Hey, I'm Atharva Dahibhate!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Atharva%20Dahibhate&fontSize=52&fontColor=7dd3fc&desc=Aspiring%20Software%20Engineering&descSize=22&descAlignY=65&animation=twinkling" width="100%" alt="header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DAA520&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Software+Engineer;Full+Stack+Development+Enthusiast;Building+AI-Powered+Projects" alt="Typing animation" />
+</p>
 
-<a href="https://github.com/atharvadahibhate1212">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineering;Built+BMW+Elite+%E2%80%94+Luxury+Car+Showroom+Website;Built+a+Library+Management+System+Web+App;Completed+.NET+%2B+React%2FRedux+job+simulation;Exploring+Azure%2C+Cloud+%26+Generative+AI" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA-Student-blue?style=for-the-badge" alt="BCA Student" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-gold?style=for-the-badge" alt="Full Stack Development" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Software%20Engineering%20Roles-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=atharvadahibhate1212&label=Profile%20Views&color=7dd3fc&style=flat-square&labelColor=0f172a" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/atharvadahibhate1212?label=Followers&style=flat-square&color=7dd3fc&labelColor=0f172a" alt="Followers" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvadahibhate1212&label=Profile%20Views&color=DAA520&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/atharvadahibhate1212?label=Followers&style=social" alt="Followers" />
+</p>
 
 ---
 
-## 🧑‍💻 Who I Am
+## 👨‍💻 About Me
 
-| | |
-|:--|:--|
-| 🎯 **Title** | Aspiring Software Engineering |
-| 🛠️ **Stack** | `.NET` · `React` · `Redux` · `Azure` · `Git` · `GitHub` · `Vercel` |
-| 🚀 **Launched Projects** | BMW Elite — Luxury Car Showroom Website<br>Personal Portfolio Website<br>Library Management System — Web Application |
-| 🟢 **Status** | Actively job searching |
-| 💼 **Open To** | Software Engineering roles · Internships · Entry-level opportunities |
-
-<details>
-<summary><b>🏅 Certifications (11) — click to expand</b></summary>
-
-<br/>
-
-- Career Essentials in Generative AI by Microsoft and LinkedIn
-- Microsoft Azure Essentials Professional Certificate by Microsoft and LinkedIn
-- Ethics in the Age of Generative AI
-- What Is Generative AI?
-- Everyday AI Concepts
-- Your Top AI Questions Answered: AI Literacy for Everyone
-- AI Tools & ChatGPT Workshop (be10x)
-- Software Engineering Job Simulation (Commonwealth Bank, Forage)
-- Cybersecurity Analyst Job Simulation (Tata, Forage)
-- Advisors & Consulting Services Job Simulation (Mastercard, Forage)
-- Client Service Delivery Job Simulation (Third Bridge, Forage)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 BMW Elite — Luxury Car Showroom Website
-
-<a href="https://github.com/atharvadahibhate1212/bmw-elite-atharva-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvadahibhate1212&repo=bmw-elite-atharva-client&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="BMW Elite" />
-</a>
-
-| Layer | Technology |
-|-------|------------|
-| Type | Web application (luxury car showroom) |
-| Hosting | Vercel |
-
-🔗 [**Live**](https://bmw-elite-atharva-client-d4cn.vercel.app/) &nbsp;|&nbsp; 💻 [**Code**](https://github.com/atharvadahibhate1212/bmw-elite-atharva-client)
-
-### 🌐 Personal Portfolio Website
-
-<a href="https://github.com/atharvadahibhate1212/atharva-dahibhate-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvadahibhate1212&repo=atharva-dahibhate-portfolio&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Portfolio" />
-</a>
-
-| Layer | Technology |
-|-------|------------|
-| Type | Personal portfolio website |
-| Hosting | GitHub Pages |
-
-🔗 [**Live**](https://atharvadahibhate1212.github.io/atharva-dahibhate-portfolio/) &nbsp;|&nbsp; 💻 [**Code**](https://github.com/atharvadahibhate1212/atharva-dahibhate-portfolio)
-
-### 📚 Library Management System — Web Application
-
-<a href="https://github.com/atharvadahibhate1212/library-management-system1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvadahibhate1212&repo=library-management-system1&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Library Management System" />
-</a>
-
-| Layer | Technology |
-|-------|------------|
-| Type | Web application (library management) |
-| Hosting | Vercel |
-
-🔗 [**Live**](https://library-management-system1-theta.vercel.app/) &nbsp;|&nbsp; 💻 [**Code**](https://github.com/atharvadahibhate1212/library-management-system1)
+- 🎓 BCA student at Indira University, ICCS School of Information Technology.
+- 💻 Aspiring Software Engineer and Full Stack Developer.
+- 🚀 Interested in building real-world web applications.
+- 🤖 Exploring AI-powered applications and developer tools.
+- 🌱 Learning Python, JavaScript, Data Structures and Algorithms, and backend development.
+- 🛠️ Improving my skills by building practical projects.
+- 🎯 Goal: Become a skilled software engineer and contribute to impactful products.
+- 🤝 Open to collaboration and internship opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=react,redux&theme=dark" alt="Frontend" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python, JavaScript" />
+</p>
 
-**Backend**
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" alt="Backend" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React, Vite" />
+</p>
 
-**Cloud & Hosting**
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=azure,vercel&theme=dark" alt="Cloud" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Node.js, Express, PHP" />
+</p>
 
-**Dev Tools**
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="MongoDB, MySQL, Firebase" />
+</p>
 
----
+### 📊 Data, APIs and Tools
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge" alt="AI Tools" />
+</p>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharvadahibhate1212&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&hide_border=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadahibhate1212&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=atharvadahibhate1212&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="Streak stats" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharvadahibhate1212&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvadahibhate1212&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=0d1117&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Git, GitHub, VS Code, Postman, Vercel, Render" />
+</p>
 
 ---
 
-## 🤝 Connect
+## 🚀 Featured Projects
 
-<div align="center">
+### 🚘 BMW Elite — Showroom Platform
 
-<a href="https://www.linkedin.com/in/atharva-dahibhate/"><img src="https://img.shields.io/badge/LinkedIn-Atharva%20Dahibhate-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc" alt="LinkedIn" /></a>
-<a href="https://atharvadahibhate1212.github.io/atharva-dahibhate-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc" alt="Portfolio" /></a>
+A BMW showroom web application showcasing vehicles, models, and pricing.
 
-<br/><br/>
+- 🚗 Vehicle catalogue and car details.
+- ⚛️ React and Vite frontend.
+- 🔌 Express backend and MongoDB integration.
+- 🌐 Full-stack deployment practice.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+🔗 **[View BMW Elite Repository](https://github.com/atharvadahibhate1212/bmw-elite-atharva)**
 
-</div>
+### 🤖 ResumePilot AI — Resume Analyzer
+
+An AI-focused resume analysis project.
+
+- 📄 Resume analysis workflow.
+- 🤖 Exploring AI integration.
+- 🔗 Frontend and backend communication.
+- 🚀 Learning API configuration and deployment.
+
+🔗 **[Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
+
+### 🏍️ Yamaha Motorcycle Website
+
+A motorcycle website project focused on design and interactive experiences.
+
+- 🏍️ Motorcycle showcase.
+- ✨ Modern design and animations.
+- 📱 Responsive web development.
+- 🎨 Interactive user interface.
+
+🔗 **[Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
+
+### 📚 Library Management System
+
+A university library management interface concept.
+
+- 👨‍🎓 Student, faculty, librarian, and admin roles.
+- 📖 Book and issue management.
+- 📊 Dashboard and data visualization.
+- 🎨 UI/UX design and prototyping.
+
+🔗 **[Explore My Repositories](https://github.com/atharvadahibhate1212?tab=repositories)**
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharvadahibhate1212&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=atharvadahibhate1212&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadahibhate1212&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvadahibhate1212&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 📘 Improving Data Structures and Algorithms.
+- ⚛️ Strengthening full-stack development skills.
+- 🔌 Understanding APIs, databases, and backend systems.
+- 🤖 Experimenting with AI-powered applications.
+- 🚀 Learning deployment and professional development practices.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-dahibhate/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/atharvadahibhate1212" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning by building. Improving by doing. Growing one project at a time.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
